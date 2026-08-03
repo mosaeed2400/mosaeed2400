@@ -9,7 +9,6 @@ frameworks, and reporting systems that drive measurable business outcomes.
 - 🧰 **Python · SQL · scikit-learn · Pandas · Tableau · Power BI · AWS · Git**
 - 🔬 Focus areas: experimentation (A/B testing), behavioral clustering/segmentation,
   automated reporting pipelines, and cloud-native ML (AWS, MLOps)
-- 📫 Reach me: mohammedshahabudeensaeed@gmail.com ·
   [LinkedIn](https://www.linkedin.com/in/mohammed-s-saeed)
 
 ### Selected work
