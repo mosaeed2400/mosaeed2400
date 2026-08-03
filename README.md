@@ -4,11 +4,8 @@
 build ML systems and LLM-powered agents, from analysis to production.
 
 - 🎓 M.S. in Analytics — American University (Kogod School of Business)
-- 📚 **CodePath — Foundations of AI Engineering (AI110)**: RAG, agentic workflows,
-  prompting, and testing AI-generated code (Python · pytest · Git/GitHub)
-- 🏅 Accepted into the **AWS AI & ML Scholars — Future AWS Agent Engineer
-  Nanodegree** (via Udacity) — building toward Amazon Bedrock (AgentCore),
-  Strands SDK, and multi-agent systems
+- 🏅 **AWS AI & ML Scholars — Agent Engineer Nanodegree** (Udacity) — building
+  toward Amazon Bedrock, Strands SDK, and multi-agent systems
 - 🤖 Building agentic AI: LLM agents that reason, self-critique, and explain
   their decisions (Anthropic Claude API)
 - 📊 Grounded in business analysis, experimentation (A/B testing), and analytics —
