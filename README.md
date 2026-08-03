@@ -1,25 +1,30 @@
 # Hi, I'm Mohammed S. Saeed 👋
 
-**Data Scientist · Business & Data Analyst** — I build ML models, experimentation
-frameworks, and reporting systems that turn data into business decisions.
+**AI/ML Engineer · Agentic AI · Data Science** — I turn data into decisions and
+build ML systems and LLM-powered agents, from analysis to production.
 
 - 🎓 M.S. in Analytics — American University (Kogod School of Business)
-- 📊 Experience across predictive modeling, A/B testing, automated reporting, and
-  pricing/segmentation analytics
-- 🧰 **Python · SQL · scikit-learn · Pandas · Tableau · Power BI · AWS · Git**
-- 🔬 Focus areas: experimentation (A/B testing), behavioral clustering/segmentation,
-  automated reporting pipelines, and cloud-native ML (AWS, MLOps)
+- 🏅 Accepted into the **AWS AI & ML Scholars — Future AWS Agent Engineer
+  Nanodegree** (sponsored by AWS, via Udacity)
+- 🤖 Building agentic AI: LLM agents that reason, self-critique, and explain
+  their decisions (Anthropic Claude API)
+- 📊 Grounded in business analysis, experimentation (A/B testing), and analytics —
+  the foundation behind the ML work
+- 🧰 **Python · SQL · scikit-learn · Pandas · LLMs & AI Agents (Anthropic API) ·
+  FastAPI · Docker · AWS (Lambda) · Terraform · Tableau · Power BI · Git**
+- 🔬 Focus: agentic AI, LLM applications, MLOps / model serving, machine learning,
+  and data analytics
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-s-saeed)
 
 ### Selected work
-- **[ml-churn-serving](https://github.com/mosaeed2400/ml-churn-serving)** — end-to-end
-  churn-prediction model serving: FastAPI · Docker · AWS Lambda · Terraform · CI.
 - **[applied-ai-music-recommender](https://github.com/mosaeed2400/applied-ai-music-recommender)**
-  — music recommender extended with an AI agent that critiques and explains its own
-  recommendations.
+  — LLM agent (Anthropic Claude) that critiques and explains its own
+  recommendations, with logged reasoning traces, an eval harness, and a model card.
+- **[ml-churn-serving](https://github.com/mosaeed2400/ml-churn-serving)** — end-to-end
+  ML model serving: FastAPI · Docker · AWS Lambda · Terraform · CI.
 - **[scalable-behavioral-clustering](https://github.com/mosaeed2400/scalable-behavioral-clustering)**
-  — memory-efficient clustering pipeline (scaling · PCA · Mini-Batch K-Means) for
-  large-scale behavioral segmentation.
+  — memory-efficient clustering pipeline (scaling · PCA · Mini-Batch K-Means).
 
-*Currently open to Data Scientist, Data Analyst, and Business Analyst roles.*
+*Bridging data analytics and AI engineering — from business insight to production
+ML and autonomous agents.*
