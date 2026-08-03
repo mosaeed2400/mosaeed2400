@@ -1,30 +1,26 @@
 # Hi, I'm Mohammed S. Saeed 👋
 
-**AI/ML Engineer · Agentic AI · Data Science** — I turn data into decisions and
-build ML systems and LLM-powered agents, from analysis to production.
+**AI/ML Engineer · Data Scientist** — I build LLM agents and production ML systems,
+model to deployed API.
 
-- 🎓 M.S. in Analytics — American University (Kogod School of Business)
-- 🏅 **AWS AI & ML Scholars — Agent Engineer Nanodegree** (Udacity) — building
-  toward Amazon Bedrock, Strands SDK, and multi-agent systems
-- 🤖 Building agentic AI: LLM agents that reason, self-critique, and explain
-  their decisions (Anthropic Claude API)
-- 📊 Grounded in business analysis, experimentation (A/B testing), and analytics —
-  the foundation behind the ML work
-- 🧰 **Python · SQL · scikit-learn · Pandas · LLMs & AI Agents (Anthropic API) ·
-  FastAPI · Docker · AWS (Lambda) · Terraform · Tableau · Power BI · Git**
-- 🔬 Focus: agentic AI, LLM applications, MLOps / model serving, machine learning,
-  and data analytics
+- 🤖 Agentic AI: LLM agents that critique and explain their own outputs, with logged
+  reasoning traces (Anthropic Claude) — see the recommender below
+- 🛠️ ML in production: FastAPI · Docker · AWS Lambda · Terraform · CI
+- 📊 Analytics foundation: A/B testing, segmentation, BI (Tableau, Power BI)
+- 🎓 M.S. Analytics — American University · Ex-Deloitte
+- 🏅 AWS AI & ML Scholars — Agent Engineer Nanodegree (Udacity), Aug 2026:
+  Amazon Bedrock, Strands SDK, multi-agent systems
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-s-saeed)
+**Stack:** Python · SQL · scikit-learn · Pandas · Anthropic Claude · Gemini API ·
+FastAPI · Docker · AWS (Lambda) · Terraform · Tableau · Power BI · Git
 
 ### Selected work
 - **[applied-ai-music-recommender](https://github.com/mosaeed2400/applied-ai-music-recommender)**
-  — LLM agent (Anthropic Claude) that critiques and explains its own
-  recommendations, with logged reasoning traces, an eval harness, and a model card.
-- **[ml-churn-serving](https://github.com/mosaeed2400/ml-churn-serving)** — end-to-end
-  ML model serving: FastAPI · Docker · AWS Lambda · Terraform · CI.
+  — LLM agent (Anthropic Claude) that critiques and explains its own recommendations;
+  logged reasoning traces, eval harness, model card.
+- **[ml-churn-serving](https://github.com/mosaeed2400/ml-churn-serving)** — churn model
+  served end-to-end: FastAPI · Docker · AWS Lambda · Terraform · CI.
 - **[scalable-behavioral-clustering](https://github.com/mosaeed2400/scalable-behavioral-clustering)**
-  — memory-efficient clustering pipeline (scaling · PCA · Mini-Batch K-Means).
+  — memory-efficient clustering pipeline (PCA + Mini-Batch K-Means).
 
-*Bridging data analytics and AI engineering — from business insight to production
-ML and autonomous agents.*
+[LinkedIn](https://www.linkedin.com/in/mohammed-s-saeed)
